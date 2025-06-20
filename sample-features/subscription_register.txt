@@ -1,0 +1,10 @@
+Feature: Register a RHEL 10 system to Red Hat using an activation key
+
+Requirements:
+- Either Use org ID and activation key for registration or Use username and password 
+- Handle incorrect org or key with meaningful error
+- Handle incorrect username or password with meaningful error
+- System must not already be registered
+- Provide output message on successful registration
+- Check for incorrect combinations of command options
+

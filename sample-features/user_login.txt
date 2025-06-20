@@ -1,0 +1,8 @@
+As a registered user, I want to log into the application using my email and password, so I can access my dashboard. 
+
+Requirements:
+- Email and password fields must be required
+- Show validation error for incorrect credentials
+- Lock account after 5 failed attempts
+- Support "Forgot Password" link
+
