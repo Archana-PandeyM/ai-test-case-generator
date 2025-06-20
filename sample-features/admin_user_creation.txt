@@ -1,0 +1,8 @@
+As an admin, I want to create new user accounts by entering user details and assigning roles.
+
+Requirements:
+- Email must be unique and validated
+- Password should meet complexity rules
+- Admin can assign roles (admin, user, editor)
+- Show success/failure messages after submission
+
